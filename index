@@ -1,0 +1,28 @@
+// import styles from "./style.module.css";
+// import logo from "../../assets/images/logo.png";
+
+// export const Footer = () => {
+//   return (
+//     <footer>
+//       <div className={styles.container}>
+//         <div className={styles.logo}>
+//           <img src={logo} alt="datum logo" />
+//         </div>
+
+//         <div className={styles["mid-section"]}>
+//           <li>
+//             <ul>Our Company</ul>
+//             <ul>Home</ul>
+//             <ul>About us</ul>
+//             <ul>Product & Services</ul>
+//             <ul>Client</ul>
+//           </li>
+//         </div>
+
+//         <div className={styles.lastsection}>
+//           <p>Contact Us</p>
+//         </div>
+//       </div>
+//     </footer>
+//   );
+// };
